@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Cyberpunk Header -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00e5ff,50:a855f7,100:ff006e&height=200&section=header&text=PRINCE%20SINGH%20RAO&fontSize=48&fontColor=00e5ff&animation=twinkling&fontAlignY=35&desc=⚡%20AI%20%2F%20ML%20Engineer%20In%20Progress%20⚡&descSize=16&descColor=c9d1d9&descAlignY=55&stroke=00e5ff&strokeWidth=1" width="100%" />
+<img src="https://chatgpt.com/s/m_6a17ec286a3881918f7abdfed4f80f4b" width="100%" />
 
 <!-- Neon Header -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Prince%20Singh%20Rao&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=50" width="100%" />
