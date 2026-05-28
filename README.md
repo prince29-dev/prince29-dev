@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://chatgpt.com/s/m_6a17ec286a3881918f7abdfed4f80f4b" width="100%" />
+<img src="github banner.png" width="100%" />
 
 <!-- Neon Header -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Prince%20Singh%20Rao&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=50" width="100%" />
