@@ -17,6 +17,19 @@
 <img src="https://img.shields.io/badge/Second%20Year-Engineering%20Student-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00e5ff" />
 
 </p>
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:princerao2923@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://your-resume-link.com">
+  <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader">
+</a>
+
+</p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
