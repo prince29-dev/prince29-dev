@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://your-resume-link.com">
+<a href="https://drive.google.com/file/d/1NYL39pa-5GzgBSBdtiUviL40tTjM6f7g/view?usp=drivesdk">
   <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader">
 </a>
 
