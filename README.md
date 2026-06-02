@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="github banner.png" width="100%" />
+<img src="github banner1.png" width="100%" />
 
 <!-- Neon Header -->
 <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Prince%20Singh%20Rao&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=50" width="100%" />
