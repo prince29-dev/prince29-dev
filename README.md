@@ -26,7 +26,7 @@
 
 # ⭐ ABOUT
 
-- 🎓 BTech ECE + AI
+- 🎓 BTech Computer Science Engg.
 - 🧠 Learning Machine Learning & AI Systems
 - ⚡ Building real-world projects
 - 📍 Udaipur, India
