@@ -30,7 +30,7 @@
 - 🧠 Learning Machine Learning & AI Systems
 - ⚡ Building real-world projects
 - 📍 Udaipur, India
-- 📧 Email: yourmail@gmail.com
+- 📧 Email: princerao2923@gmail.com
 
 ---
 
