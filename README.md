@@ -6,6 +6,9 @@
   <img src="https://raw.githubusercontent.com/prince29-dev/prince29-dev/main/banner.gif" width="100%" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Builder;Future+Tech+Leader" />
+</p>
 <h1 align="center">Hello World! I'm Prince 👋</h1>
 
 <p align="center">
