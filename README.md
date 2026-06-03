@@ -2,85 +2,78 @@
 
 <img src="banner.gif11.gif" width="100%" />
 
-<!-- Neon Header -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Prince%20Singh%20Rao&fontSize=52&fontColor=00e5ff&animation=twinkling&fontAlignY=50" width="100%" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prince29-dev/prince29-dev/main/banner.gif" width="100%" />
+</p>
 
-<!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=┌──+root@prince;├──+$+Machine+Learning+Explorer;└──+$+Building+Intelligent+Systems+🚀" />
-</a>
+<h1 align="center">Hello World! I'm Prince 👋</h1>
 
+<p align="center">
+  AI Engineer | ML Builder 🚀
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prince29-dev&color=blueviolet&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/prince29-dev?label=Followers&style=flat-square" />
+</p>
+
+---
+
+# ⭐ ABOUT
+
+- 🎓 BTech ECE + AI
+- 🧠 Learning Machine Learning & AI Systems
+- ⚡ Building real-world projects
+- 📍 Udaipur, India
+- 📧 Email: yourmail@gmail.com
+
+---
+
+# 🎮 CURRENT QUESTS
+
+| Mission | Status |
+|--------|--------|
+| 🧠 RAG AI Project | 🟢 Active |
+| 🤖 Multi-Agent Systems | 🟢 Active |
+| 🚀 SIH Project (Raah) | 🟢 Active |
+
+---
+
+# 💻 TECH STACK
+
+### 🖥️ Languages
 <p>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Enthusiast-00e5ff?style=for-the-badge&labelColor=0d1117&color=0d1117&logo=tensorflow&logoColor=00e5ff" />
-
-<img src="https://img.shields.io/badge/Second%20Year-Engineering%20Student-0d1117?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=00e5ff" />
-
-</p>
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="mailto:princerao2923@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-</a>
-
-<a href="https://drive.google.com/file/d/1NYL39pa-5GzgBSBdtiUviL40tTjM6f7g/view?usp=drivesdk">
-  <img src="https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=adobeacrobatreader">
-</a>
-
+  <img src="https://skillicons.dev/icons?i=cpp,python,js" />
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-</div>
-### > cat about_me.txt
-
-```python
-prince = {
-
-    "role": "Machine Learning Enthusiast",
-
-    "education": "Second Year Engineering Student",
-
-    "interests": [
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Deep Learning",
-        "AI Systems"
-    ],
-
-    "languages": ["Python", "C++"],
-
-    "ml_stack": {
-        "libraries": ["NumPy", "Pandas", "Scikit-Learn"],
-        "deep_learning": ["TensorFlow", "PyTorch"],
-        "visualization": ["Matplotlib", "Seaborn"]
-    },
-
-    "tools": ["Git", "Docker", "Linux", "VS Code"],
-
-    "current_focus": "Building ML projects and AI systems",
-
-    "goal": "AI internship and research opportunities"
-}
-```
-### > ls ./tech_stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,git,github,linux,docker,vscode" />
-
-</p>
+### 🌐 Development
 <p>
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=prince29-dev&show_icons=true&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&icon_color=a855f7&hide_border=true&border_radius=15" />
-
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prince29-dev&layout=compact&theme=transparent&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide_border=true&border_radius=15" />
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,firebase" />
 </p>
-## 🐍 Contribution Snake
+
+### 🤖 AI / ML
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
+
+---
+
+# 📊 GITHUB STATS
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prince29-dev/prince29-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=prince29-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prince29-dev&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/prince29-dev/prince29-dev/output/snake.svg" />
 </p>
