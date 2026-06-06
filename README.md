@@ -77,6 +77,4 @@
 
 # 🐍 CONTRIBUTION SNAKE
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/prince29-dev/prince29-dev/output/snake.svg" />
-</p>
+![snake gif](https://github.com/prince29-dev/prince29-dev/blob/output/github-contribution-grid-snake.svg)
