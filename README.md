@@ -39,8 +39,8 @@
 | Mission | Status |
 |--------|--------|
 | 🧠 RAG AI Project | 🟢 Active |
-| 🤖 Multi-Agent Systems | 🟢 Active |
-| 🚀 SIH Project (Raah) | 🟢 Active |
+| 🤖 Digital Twin(DARPAN) | 🟢 Active |
+| 🚀  Trafic Controller(Raah) | 🟢 Active |
 
 ---
 
